@@ -4,11 +4,13 @@
   "description": "practicing nodejs katbin",
   "main": "index.js",
   "scripts": {
+    "start": "node myserver.js",
     "test": "here katbin.com test"
   },
   "author": "asaph binene kalala",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "request": "^2.88.2"
   }
 }
