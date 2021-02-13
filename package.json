@@ -1,0 +1,14 @@
+{
+  "name": "firstserver",
+  "version": "1.0.0",
+  "description": "practicing nodejs katbin",
+  "main": "index.js",
+  "scripts": {
+    "test": "here katbin.com test"
+  },
+  "author": "asaph binene kalala",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
